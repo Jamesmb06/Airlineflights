@@ -11,8 +11,7 @@ const Seats = () => {
 
     }
   return (
-    <div>Selecciona tu asiento...
-    <h1>selecciona tus asientos</h1>
+    <div><h1>Selecciona tus asientos</h1>
     <div className='div'>
     <section className='divjet'> 
     {listA.map((item,index)=>(

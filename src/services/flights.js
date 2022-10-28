@@ -1,5 +1,5 @@
 import axios from 'axios';
-const URL_API = 'https://ticket-back.onrender.com';
+const URL_API = 'https://airlineflight.herokuapp.com';
 
 export const getFlight = async (origin, destiny) => {
     try {

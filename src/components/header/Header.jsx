@@ -71,12 +71,11 @@ const Header = () => {
 
                                     >
                                     <option>-----</option>
-                                    <option>Colombia</option>
-                                    <option>Ciudad de México</option>
-                                    <option>Argentina</option>
-                                    <option>Chile</option>
-                                    <option>Perú</option>
                                     <option>Medellín</option>
+                                    <option>Bogotá</option>
+                                    <option>Cartagena</option>
+                                    <option>Cali</option>
+                                    <option>Bucaramanga</option>
                                 </select>
                             </div>
                             <div className="form-group col column">
@@ -86,11 +85,11 @@ const Header = () => {
 
                                     >
                                     <option>-----</option>
-                                    <option>Nueva York</option>
-                                    <option>Brasil</option>
-                                    <option>Canadá</option>
-                                    <option>Suiza</option>
-                                    <option>Francia</option>
+                                    <option>Medellín</option>
+                                    <option>Bogotá</option>
+                                    <option>Cartagena</option>
+                                    <option>Cali</option>
+                                    <option>Bucaramanga</option>
                                 </select>
                             </div>
                         </div>
