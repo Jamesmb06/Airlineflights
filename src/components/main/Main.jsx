@@ -29,27 +29,27 @@ const Main = () => {
 <h2 className='mt-5 mb-4'>Servicios disponibles</h2>
 <div className='d-flex justify-content-between pago'>
   <article className='d-flex flex-column align-items-center p-4 border shadow-lg col-md-2 rnd mb-3'>
-  <img src='https://cdn-icons-png.flaticon.com/512/632/632591.png' width='100' height='100'></img>
+  <img src='https://cms.volaris.com/globalassets/1nextgen/externalproducts/hovertransportation.svg' width='100' height='100'></img>
   <p className='mt-4 h6'>Transporte</p>
   <p className='text-center'>Renta un auto o reserva un shuttle.</p>
   </article>
   <article className='d-flex flex-column align-items-center p-4 border shadow-lg col-md-2 mb-3 rnd'>
-  <img src='https://cdn-icons-png.flaticon.com/512/632/632579.png' width='100' height='100'></img>
+  <img src='https://cms.volaris.com/globalassets/1nextgen/externalproducts/hoveryavas.svg' width='100' height='100'></img>
   <p className='mt-4 h6'>Vuelos + Hoteles</p>
   <p className='text-center'>Encuentra las mejores ofertas para tu viaje.</p>
   </article>
   <article className='d-flex flex-column align-items-center p-4 border shadow-lg col-md-2 mb-3 rnd'>
-  <img src='https://cdn-icons-png.flaticon.com/512/340/340269.png' width='100' height='100'></img>
+  <img src='https://cms.volaris.com/globalassets/1nextgen/externalproducts/hovergroups.svg' width='100' height='100'></img>
   <p className='mt-4 h6'>Grupos</p>
   <p className='text-center'>Obten una cotización para grupos de más de 9 personas.</p>
   </article>
   <article className='d-flex flex-column align-items-center p-4 border shadow-lg col-md-2 mb-3 rnd'>
-  <img src='https://cdn-icons-png.flaticon.com/512/341/341144.png' width='100' height='100'></img>
+  <img src='https://cms.volaris.com/globalassets/1nextgen/externalproducts/hoverhotels.svg' width='100' height='100'></img>
   <p className='mt-4 h6'>Hoteles</p>
   <p className='text-center'>Reserva cualquier habitación en cualquier parte del mundo.</p>
   </article>
   <article className='d-flex flex-column align-items-center p-4 border shadow-lg col-md-2 mb-3 rnd'>
-  <img src='https://cdn-icons-png.flaticon.com/512/341/341188.png' width='100' height='100'></img>
+  <img src='https://cms.volaris.com/globalassets/1nextgen/externalproducts/hovercargo.svg' width='100' height='100'></img>
   <p className='mt-4 h6'>Carga</p>
   <p className='text-center'>Contamos con un servicio de carga y mensajería.</p>
   </article>
